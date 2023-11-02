@@ -1,2 +1,3 @@
 # kalkulator
-ini adalah aplikasi kalkulator untuk menghitung perhitungan sederhana
+ini adalah aplikasi kalkulator xwz untuk menghitung perhitungan sederhana
+created by siska
